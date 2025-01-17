@@ -3211,6 +3211,17 @@ a {
   display: none;
 }
 
+#header h1.logo a {
+  display: flex;
+
+}
+
+#header h1.logo .img{
+  height: 3.5em;
+  width: 3.5em;
+  margin: auto 0;
+}
+
 #header nav {
   font-family: Raleway, Helvetica, sans-serif;
   font-size: 0.8em;
