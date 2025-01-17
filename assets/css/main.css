@@ -3573,13 +3573,13 @@ body.is-menu-visible #menu .inner {
   width: 2.25em;
 }
 
-#banner .logo img {
+#banner .logo .img {
   cursor: default;
   display: inline-block;
-  height: 4.25em;
-  line-height: 3.25em;
+  height: 8.25em;
+  line-height: 4.25em;
   text-align: center;
-  width: 4.25em;
+  width: 8.25em;
 }
 
 #banner h2 {
@@ -3679,9 +3679,9 @@ body.is-menu-visible #menu .inner {
     font-size: 1.5em;
   }
 
-  #banner .logo img {
-    height: 3em;
-    width: 3em;
+  #banner .logo .img {
+    height: 4.25em;
+    width: 4.25em;
   }
 
   #banner h2 {
